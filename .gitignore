@@ -17,3 +17,11 @@ exercise3/dovekey
 exercise3/dovekey.pub
 exercise3/.terraform.tfstate.lock.info
 exercise3/terraform.tfstate.backup
+
+#exercise4
+exercise4/.terraform
+exercise4/.terraform.lock.hcl
+exercise4/dovekey
+exercise4/dovekey.pub
+exercise4/.terraform.tfstate.lock.info
+exercise4/terraform.tfstate.backup
