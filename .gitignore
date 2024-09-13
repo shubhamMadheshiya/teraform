@@ -1,7 +1,13 @@
-#erercise1
+#exercise1
 exercise1/.terraform
 exercise1/.terraform.lock.hcl
 
-#erercise2
+#exercise2
 exercise2/.terraform
 exercise2/.terraform.lock.hcl
+
+#exercise3
+exercise3/.terraform
+exercise3/.terraform.lock.hcl
+exercise3/dovekey
+exercise3/dovekey.pub
