@@ -1,13 +1,19 @@
 #exercise1
 exercise1/.terraform
 exercise1/.terraform.lock.hcl
+exercise1/.terraform.tfstate.lock.info
+exercise1/terraform.tfstate.backup
 
 #exercise2
 exercise2/.terraform
 exercise2/.terraform.lock.hcl
+exercise2/.terraform.tfstate.lock.info
+exercise2/terraform.tfstate.backup
 
 #exercise3
 exercise3/.terraform
 exercise3/.terraform.lock.hcl
 exercise3/dovekey
 exercise3/dovekey.pub
+exercise3/.terraform.tfstate.lock.info
+exercise3/terraform.tfstate.backup
