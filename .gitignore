@@ -1,3 +1,7 @@
 #erercise1
 exercise1/.terraform
 exercise1/.terraform.lock.hcl
+
+#erercise2
+exercise2/.terraform
+exercise2/.terraform.lock.hcl
